@@ -1,7 +1,7 @@
 let gif;
 
 function preload (){
-  gif=loadImage ('assets/AiBG1.gif');
+  gif=loadImage ('assets/AiBGBlueSpiral.gif');
 
 
 

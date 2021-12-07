@@ -1,6 +1,6 @@
 function setup() { //runs once
   createCanvas(windowWidth, windowWidth);
-  fill('indigo');
+  fill('magenta');
   strokeWeight(1);
 }
 
